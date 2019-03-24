@@ -1,0 +1,10 @@
+E:\Content Creation\Program Files\Idle Game\Idle Game\bin\Debug\Idle Game.exe.config
+E:\Content Creation\Program Files\Idle Game\Idle Game\bin\Debug\Idle Game.exe
+E:\Content Creation\Program Files\Idle Game\Idle Game\bin\Debug\Idle Game.pdb
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle Game.csprojAssemblyReference.cache
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle_Game.GameForm.resources
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle_Game.Properties.Resources.resources
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle Game.csproj.GenerateResource.cache
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle Game.csproj.CoreCompileInputs.cache
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle Game.exe
+E:\Content Creation\Program Files\Idle Game\Idle Game\obj\Debug\Idle Game.pdb
